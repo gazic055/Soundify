@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Soundify/static/css/main.e6c13ad2.css",
+    "main.js": "/Soundify/static/js/main.c14c2412.js",
+    "static/js/787.821832fa.chunk.js": "/Soundify/static/js/787.821832fa.chunk.js",
+    "index.html": "/Soundify/index.html",
+    "main.e6c13ad2.css.map": "/Soundify/static/css/main.e6c13ad2.css.map",
+    "main.c14c2412.js.map": "/Soundify/static/js/main.c14c2412.js.map",
+    "787.821832fa.chunk.js.map": "/Soundify/static/js/787.821832fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c14c2412.js"
+  ]
+}
